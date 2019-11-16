@@ -8,5 +8,8 @@ This is fuck ccp site.
 5. CCP's evil
 6. The website to expose evil behaviors of CCP
 
+### Data format
+json or yaml
+
 ### Support or Contact
 
